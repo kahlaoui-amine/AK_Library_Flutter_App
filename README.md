@@ -19,6 +19,8 @@ Download and install the APK file from the [latest release](https://github.com/k
 
 ## Screen video record
 
-   <img src="https://res.cloudinary.com/dggw5ktf8/video/upload/v1678493497/BookLibraryFlutter/20230311_010851_vpt0yq.mp4" alt="App ScreenRecord" width = 250>
-   
+   <video width="320" height="240" controls>
+  <source src="https://res.cloudinary.com/dggw5ktf8/video/upload/v1678493497/BookLibraryFlutter/20230311_010851_vpt0yq.mp4" type="video/mp4">
+  
+</video>
 
