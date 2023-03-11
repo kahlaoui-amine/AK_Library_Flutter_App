@@ -1,0 +1,82 @@
+[
+    {
+      "id": 0,
+      "name": "A World of Curiosities: A Novel ",
+      "category": "A World of Curiosities continues   Penny’s empathetic investigation into the human condition. We are in good hands with Armand Gamache and the residents of Three Pines",
+      "imageUrl": "https://res.cloudinary.com/dggw5ktf8/image/upload/v1678467304/BookLibraryFlutter/3_x0pocm.jpg",
+      "oldPrice": "29",
+      "price": "20"
+    },
+    {
+      "id": 1,
+      "name": "Storm Watch (Joe Pickett Series #23)",
+      "category": "   When a prominent University of Wyoming professor goes missing, authorities are stumped. That is, until Joe Pickett makes two surprising discoveries while hunting down a wounded elk on his district as an epic spring storm descends upon him.",
+      "oldPrice": "17",
+      "imageUrl": "https://res.cloudinary.com/dggw5ktf8/image/upload/v1678467336/BookLibraryFlutter/4_gbrc7t.jpg",
+      "price": "14"
+    },
+    {
+      "id": 2,
+      "name": "Lemon Curd Killer",
+      "category": "Tea shop entrepreneur Theodosia Browning has been tapped to host a fancy Limón Tea in a genuine lemon orchard as a rousing kickoff to Charleston Fashion Week. But as fairy lights twinkle and the scent of lemon wafts among the tea tables, the deadly murder of a fashion designer puts the squeeze on things.",
+      "imageUrl": "https://res.cloudinary.com/dggw5ktf8/image/upload/v1678467299/BookLibraryFlutter/5_fnz27s.jpg",
+      "oldPrice": "22",
+      "price": "15"
+    },
+    {
+      "id": 3,
+      "name": "The Butcher and The Wren",
+      "category": "A notorious serial killer and the medical examiner following where his trail of victims leads,\nSomething dark is lurking in the Louisiana bayou: a methodical killer with a penchant for medical experimentation is hard at work completing his most harrowing crime yet, taunting the authorities who desperately try to catch up.",
+      "imageUrl": "https://res.cloudinary.com/dggw5ktf8/image/upload/v1678466420/BookLibraryFlutter/2_smkpyf.jpg",
+      "oldPrice": "23",
+      "price": "27"
+    },
+    {
+      "id": 4,
+      "name": "All Good People Here: A Novel",
+      "category": "In the propulsive debut novel from the host of the #1 true crime podcast Crime Junkie, a journalist uncovers her hometown’s dark secrets when she becomes obsessed with the unsolved murder of her childhood neighbor—and the disappearance of another girl twenty years later.",
+      "imageUrl": "https://res.cloudinary.com/dggw5ktf8/image/upload/v1678466420/BookLibraryFlutter/1_waunfw.jpg",
+      "oldPrice": "28",
+      "price": "22"
+    },
+    {
+      "id": 5,
+      "name": "Simply Lies: A Psychological Thriller",
+      "category": "Mickey Gibson, single mother and former detective, leads a hectic life similar to that of many moms: juggling the demands of her two small children with the tasks of her job working remotely for ProEye, a global investigation company that hunts down wealthy tax and credit cheats.  ",
+      "imageUrl": "https://res.cloudinary.com/dggw5ktf8/image/upload/v1678467289/BookLibraryFlutter/6_dnuz0b.jpg",
+      "oldPrice": "15",
+      "price": "12"
+    },
+    {
+      "id": 6,
+      "name": "And There He Kept Her: A Novel",
+      "category": "When two teenagers break into a house on a remote lake in search of prescription drugs, what starts as a simple burglary turns into a nightmare for all involved. Emmett Burr has secrets he's been keeping in his basement for more than two decades, and he'll do anything to keep his past from being revealed. As he gets the upper hand on his tormentors, the lines blur between victim, abuser, and protector.",
+      "imageUrl": "https://res.cloudinary.com/dggw5ktf8/image/upload/v1678466427/BookLibraryFlutter/7_nffzns.jpg",
+      "oldPrice": "18",
+      "price": "14"
+    },
+    {
+      "id": 7,
+      "name": "The Hidden",
+      "category": "One dark December night, in a small seaside town, a little girl is found abandoned. When her mother finally arrives, authorities release the pair, believing it to be an innocent case of a toddler running off.\nGregor, a seemingly single man, is found bludgeoned and left for dead in his apartment, but the discovery of children's toys raises more questions than answers.",
+      "imageUrl": "https://res.cloudinary.com/dggw5ktf8/image/upload/v1678467284/BookLibraryFlutter/8_r09opd.jpg",
+      "oldPrice": "24",
+      "price": "21"
+    },
+    {
+      "id": 8,
+      "name": "The Lost Village: A Novel",
+      "category": " Alice Lindstedt has been obsessed with the vanishing residents of the old mining town, dubbed “The Lost Village,” since she was a little girl. In 1959, her grandmother’s entire family disappeared in this mysterious tragedy, and ever since, the unanswered questions surrounding the only two people who were left—a woman stoned to death in the town center and an abandoned newborn—have plagued her.",
+      "imageUrl": "https://res.cloudinary.com/dggw5ktf8/image/upload/v1678466436/BookLibraryFlutter/9_aht6rk.jpg",
+      "oldPrice": "18",
+      "price": "15"
+    },
+    {
+      "id": 9,
+      "name": "The Tenant",
+      "category": "When a young woman is discovered brutally murdered in her own apartment with an intricate pattern of lines carved into her face, Copenhagen police detectives Jeppe Korner and Anette Werner are assigned to the case.",
+      "imageUrl": "https://res.cloudinary.com/dggw5ktf8/image/upload/v1678466441/BookLibraryFlutter/10_epe5te.jpg",
+      "oldPrice": "23",
+      "price": "17"
+    }
+  ]
