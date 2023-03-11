@@ -18,9 +18,5 @@ Download and install the APK file from the [latest release](https://github.com/k
     - If git is not installed, click the green <code>Code</code> button near the top right of the repository and choose [<code>Download ZIP</code>](https://github.com/kahlaoui-amine/AK_Library_Flutter_App/archive/refs/heads/master.zip). Once the zipped folder has been downloaded, extract its contents.
 
 ## Screen video record
-
-   <video width="320" height="240" >
-  <source src="https://res.cloudinary.com/dggw5ktf8/video/upload/v1678493497/BookLibraryFlutter/20230311_010851_vpt0yq.mp4" type="video/mp4">
-  Ooops! Not Displayed, this is the Link :"https://res.cloudinary.com/dggw5ktf8/video/upload/v1678493497/BookLibraryFlutter/20230311_010851_vpt0yq.mp4"
-</video>
+   <img src="https://res.cloudinary.com/dggw5ktf8/image/upload/v1678494478/BookLibraryFlutter/20230311_010851_j2hyso.gif?raw=True" alt="App ScreenRecord" width = 250>
 
